@@ -1,0 +1,94 @@
+
+.second-container {
+    display: flex;
+    background-color: white;
+    margin-top: 50px;
+}
+.second-htag{
+    font-size: 40px;
+    margin-left: 150px;
+    margin-top: 300px;
+    width: 300px;
+}
+.second-ptag{
+    font-size: 25px;
+    margin-left: 80px;
+    width: 500px;
+
+}
+.firstname-tag input{
+    border-radius: 10px;
+    border-color: rgb(218, 213, 213);
+    height: 50px;
+    width: 500px;
+    margin-top: 100px;
+    font-size: 20px;
+
+}
+input::placeholder{
+    padding-left: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.lastname-tag input{
+    border-radius: 10px;
+    border-color: rgb(218, 213, 213);
+    height: 50px;
+    width: 500px;
+    margin-top: 20px;
+    font-size: 20px;
+
+}
+.mailtag2 input{
+    
+    border-radius: 10px;
+    border-color: rgb(218, 213, 213);
+    height: 50px;
+    width: 500px;
+    margin-top: 30px;
+    font-size: 20px;
+}
+.pastag2 input{
+    
+    border-radius: 10px;
+    border-color: rgb(218, 213, 213);
+    height: 50px;
+    width: 500px;
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+.sign-tag2 button {
+    background-color: rgb(89, 33, 153);
+    margin-top: 50px;
+    width: 500px;
+    height: 60px;
+    border: none;
+    border-radius: 10px;
+}
+.sign-tag2 a{
+    font-size: 20px; 
+    color: white;
+    text-decoration: none;
+
+}
+.acc-tag2 {
+    margin-top: 50px;
+    position: absolute;
+}
+.acc-tag2 a {
+    text-decoration: none;
+    font-family: sans-serif;
+    color:  rgba(89, 33, 153, 0.3);
+   
+}
+
+.log-tag2{
+    margin-top: 65px;
+    position: relative;
+    margin-left: 400px;
+
+}
+.log-tag2 a{
+    font-family: sans-serif;
+    color:  rgb(89, 33, 153);
+}

@@ -1,0 +1,123 @@
+body {
+    background-color: rgb(226, 222, 222);
+   
+}
+.first-container{
+    background-color: white;
+    display: flex;
+
+    
+}
+.inner-container1{
+    background-color: white;
+
+}
+.inner-container2{
+    background-color: white;
+    
+    
+}
+.htag h2{
+    font-size: 40px;
+    margin-left: 150px;
+    margin-top: 300px;
+    width: 300px;
+}
+.ptag2 p{
+    font-size: 25px;
+    margin-left: 140px;
+    width: 350px;
+
+}
+.mailtag input{
+    border-radius: 10px;
+    border-color: rgb(218, 213, 213);
+    height: 50px;
+    width: 500px;
+    margin-top: 100px;
+    font-size: 25px;
+
+}
+.pastag input{
+    border-radius: 10px;
+    border-color: rgb(218, 213, 213);
+    height: 50px;
+    width: 500px;
+    margin-top: 20px;
+    font-size: 25px;
+
+}
+
+input[type="checkbox"]{
+    background-color: blue;
+    width: 20px;
+    height: 20px;
+    border: 1px solid #999;
+    border-radius: 3px;
+    margin-top: 20px;
+    position: absolute;
+        
+}
+.remtag label{
+    margin-left: 30px;
+    margin-top: 22px;
+    position: absolute;
+    color:  rgba(89, 33, 153, 0.7);
+    text-decoration: none;
+    font-family: sans-serif;
+    
+    
+}
+.forgotpas {
+    margin-left: 300px;
+    margin-top: 22px;
+    position: relative;
+}
+.forgotpas a {
+    color:  rgba(89, 33, 153, 0.7);
+    text-decoration: none;
+    font-family: sans-serif;
+
+}
+.vector {
+    margin-left: 295px;
+    position: absolute;
+    margin-top: 22px;
+    
+}
+.vector img {
+    height: 15px;
+}
+.logtag button{
+    background-color: rgb(89, 33, 153);
+    margin-top: 50px;
+    width: 500px;
+    height: 60px;
+    border: none;
+    border-radius: 10px;
+}
+.logtag button a { 
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+
+}
+.accttag {
+    margin-top: 50px;
+    position: absolute;
+}
+.accttag a {
+    text-decoration: none;
+    font-family: sans-serif;
+    color:  rgba(89, 33, 153, 0.3);
+   
+}
+.signup {
+    margin-top: 65px;
+    position: relative;
+    margin-left: 400px;
+    border: none;
+
+
+}  
+      
